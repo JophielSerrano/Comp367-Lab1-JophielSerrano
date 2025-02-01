@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("301326117(Serrano)_Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec288d9a617615e854a062534df39a2c3cb7bcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f73d2bdd6285d28b53cb23bed322dd48b147bdcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("301326117(Serrano)_Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("301326117(Serrano)_Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
